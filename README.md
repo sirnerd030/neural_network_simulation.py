@@ -19,7 +19,7 @@ This project implements a simple neural network in Python to classify labeled da
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/sirnerd030/neural-network-simulation.git cd neural-network-simulation
+   git clone [https://github.com/sirnerd030/neural-network-simulation.git](https://github.com/sirnerd030/neural_network_simulation.py.git) cd neural-network-simulation
 2. Install dependencies:
    pip install numpy matplotlib
 3. Run the script:
